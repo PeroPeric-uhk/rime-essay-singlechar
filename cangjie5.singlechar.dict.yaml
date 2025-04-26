@@ -1,0 +1,13 @@
+# encoding: utf-8
+#
+# Author: Pero Peric
+#
+
+---
+name: "cangjie5.singlechar"
+version: "0.1"
+sort: by_weight
+vocabulary: essay-singlechar
+import_tables:
+- cangjie5
+...
